@@ -1,1 +1,2 @@
 Minha primeira nota para o Git
+Segunda nota: aprendendo a ver alteracoes com git status e diff
