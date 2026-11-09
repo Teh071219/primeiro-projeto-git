@@ -13,4 +13,4 @@ Este é o meu primeiro repositório prático, criado durante os meus estudos com
 - Registar alterações com `git add` e `git commit`
 - Navegar pelo histórico com `git log`
 - Desfazer alterações com `git restore`
-- Ligar o projeto local ao GitHub com `git push'
+- Ligar o projeto local ao GitHub com `git push`
